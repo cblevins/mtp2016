@@ -7,13 +7,33 @@
 
 # Site settings
 title: "Mapping the Past: A Spatial History of the United States"
-email: cameron.blevins@rutgers.edu
 description: > # this means to ignore newlines until "baseurl:"
   Course Website for Mapping the Past: A Spatial History of the United States (Rutgers University, Spring 2015)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: historying
 github_username:  cblevins
+university: Rutgers University
+course_number: "History 506:303"
+semester: "Spring 2016"
+room: "Scott Hall 215 (43 College Ave.)"
+meetingtime: "Wed. 9:50-12:50am"
+
+instructor: Cameron Blevins
+email: cameron.blevins@rutgers.edu
+office: "Rutgers Center for Historical Analysis (88 College Ave.)"
+officehours: "Wed. 1:00pm-2:00pm, and by appointment
+
+#course_room: "Wallenberg 326"
+#course_semester: "Fall 2014"
+#instructor_email: jheppler@stanford.edu
+#instructor_name: Jason Heppler
+#instructor_office: "Lane Rm. 122"
+#instructor_officehours: "Mon., 9a--11a, and Thurs., 10a--12p, or by appointment"
+#instructor_officehours_link: http://jasonheppler.org/officehours
+#instructor_twitter: jaheppler
+#instructor_website: http://jasonheppler.org
+#course_description: "An introduction to digital history."
 
 # Build settings
 markdown: kramdown

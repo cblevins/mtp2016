@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Schedule
-permalink: /Schedule/
+permalink: /schedule/
+order: 2
 ---
 
 

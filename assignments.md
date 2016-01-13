@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Assignments
-permalink: /Assignments/
+permalink: /assignments/
+order: 3
 ---
