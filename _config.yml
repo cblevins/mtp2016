@@ -25,4 +25,4 @@ officehours: "Wed. 1:00pm-2:00pm, and by appointment"
 
 # Build settings
 markdown: kramdown
-gems: [ 'jekyll-pandoc-multiple-formats' ]
+
