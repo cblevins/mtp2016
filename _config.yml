@@ -1,7 +1,7 @@
 # Site settings
 title: "Mapping the Past: A Spatial History of the United States"
 baseurl: "/mtp2016" # the subpath of your site, e.g. /blog
-url: "cblevins.github.io/mtp2016" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: historying
 github_username:  cblevins
 university: Rutgers University
