@@ -8,7 +8,7 @@
 # Site settings
 title: "Mapping the Past: A Spatial History of the United States"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://cameronblevins.org/teaching/mtp2016/" # the base hostname & protocol for your site
 twitter_username: historying
 github_username:  cblevins
 university: Rutgers University
@@ -19,8 +19,8 @@ meetingtime: "Wed. 9:50-12:50am"
 
 instructor: Cameron Blevins
 email: cameron.blevins@rutgers.edu
-office: "Room 205, RCHA Building (88 College Ave.)"
-officehours: "Wed. 1:00pm-2:00pm, and by appointment"
+office: "Room 205 - RCHA Building (88 College Ave.)"
+officehours: "Wed. 1:30pm-3:00pm, and by appointment"
 
 
 # Build settings
