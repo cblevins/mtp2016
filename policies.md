@@ -11,7 +11,7 @@ Attendance at each class is mandatory. One unexcused absence is allowed per seme
 
 **Assignments**
 
-Assignments are due to me electronically via email ([cameron.blevins@rutgers.edu](mailto:"cameron.blevins@rutgers.edu")). Assignments are due by 4:00PM (unless otherwise noted), after which they will be considered one day late. Papers will be penalized by one half letter grade for each day they are late (an A paper becomes an A-, an A- to B+, etc.). When grading papers I will use [a writing rubric](/writing-rubric.pdf). My feedback will consist of broad comments, some minimal notes in the margins, and a rubric-based breakdown of scores for each category of evaluation totaling a possible 50 points.
+Assignments are due to me electronically via email ([cameron.blevins@rutgers.edu](mailto:"cameron.blevins@rutgers.edu")). Assignments are due by 4:00PM (unless otherwise noted), after which they will be considered one day late. Papers will be penalized by one half letter grade for each day they are late (an A paper becomes an A-, an A- to B+, etc.). When grading papers I will use [a writing rubric]({{site.baseurl}}/writing-rubric.pdf). My feedback will consist of broad comments, some minimal notes in the margins, and a rubric-based breakdown of scores for each category of evaluation totaling a possible 50 points.
 
 **Technology**
 
