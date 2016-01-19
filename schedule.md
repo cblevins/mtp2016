@@ -11,23 +11,23 @@ order: 2
 
 **Week 2: Maps and the Early Americas (1/27)**
 
-- Barbara Mundy, "Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings" (pp. 11-33)
-- J. B. Harley, "New England Cartography and the Native Americans" (pp. 169-195)
+- Barbara Mundy, ["Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings" (pp. 11-33)](https://sakai.rutgers.edu/x/j3EJUt)
+- J. B. Harley, ["New England Cartography and the Native Americans" (pp. 169-195)](https://sakai.rutgers.edu/x/GCAimz)
 - Herman Moll, ["Map of North America According to the Newest and Most Exact Observations"](https://www.loc.gov/resource/g3300.ct003985/) (1715)
 
 **Week 3: Lab #1 - Designing Maps (2/3)**
 
 - Edward Tufte, *The Visual Display of Quantitative Information*:
-	* Chapter 1: Graphical Excellence (pp. 13-27)
-	* Chapter 4: Data-Ink and Graphical Redesign (pp. 91-105)
+	* [Chapter 1: Graphical Excellence (pp. 13-27)](https://sakai.rutgers.edu/x/HYx2xw)
+	* [Chapter 4: Data-Ink and Graphical Redesign (pp. 91-105)](https://sakai.rutgers.edu/x/mvkhuk)
 - Andrew Wiseman, ["When Maps Lie"](http://www.citylab.com/design/2015/06/when-maps-lie/396761/)
 
 **Week 4: Spatial Connections (2/10)**
 
 - Elizabeth Fenn, *Pox Americana: The Great Smallpox Epidemic of 1775-82*: 
-	* Introduction (pp. 3-11)
-	* Chapter 5: Entierros (pp. 133-166)
-	* Chapter 7: Connections (pp. 196-223)
+	* [Introduction (pp. 3-11)](https://sakai.rutgers.edu/x/s6Kk23)
+	* [Chapter 5: Entierros (pp. 133-166)](https://sakai.rutgers.edu/x/IYNhZ6)
+	* [Chapter 7: Connections (pp. 196-223)](https://sakai.rutgers.edu/x/fODXr0)
 - *Lab #1 Due by 4pm*
 
 <h4><p align ="center">Part II. The U.S. Civil War</p></h4>
@@ -36,7 +36,7 @@ order: 2
 
 - ["The Forced Migration of Enslaved People"](http://dsl.richmond.edu/panorama/forcedmigration/) *American Panorama: An Atlas of United States History*
 - Susan Schulten, *Mapping the Nation: History and Cartography in Nineteenth-Century America*
-	* Chapter 4: Slavery and the Origin of Statistical Cartography (pp. 119-155)
+	* [Chapter 4: Slavery and the Origin of Statistical Cartography (pp. 119-155)](https://sakai.rutgers.edu/x/SEHaOc)
 - William C. Reynolds and J. C. Jones, ["Reynolds's political map of the United States, designed to exhibit the comparative area of the free and slave states"](http://www.mappingthenation.com/index.php/viewer/index/4/5) (1856)
 - Frederick Law Olmsted, ["The Cotton Kingdom and its Dependencies"](http://www.mappingthenation.com/index.php/viewer/index/4/12) (1861)
 - *Map Analysis Paper Due by 4pm*
@@ -48,13 +48,13 @@ order: 2
 **Week 7: Battlefields and the Civil War (3/2)**<br>
 
 - Mark Fiege, *The Republic of Nature*
-	* Chapter 5: "The Nature of Gettysburg: Environmental History and the Civil War" (pp. 199-227)
+	* [Chapter 5: "The Nature of Gettysburg: Environmental History and the Civil War" (pp. 199-227)](https://sakai.rutgers.edu/x/KdigvY)
 - Anne Knowles, ["A Cutting-Edge Second Look at the Battle of Gettysburg"](http://www.smithsonianmag.com/history/A-Cutting-Edge-Second-Look-at-the-Battle-of-Gettysburg-1-180947921/) (move through the entirety of the visualization's narrative)
 - *Lab #2 Due by 4pm*
 
 **Week 8: Emancipation and Reconstruction (3/9)**
 
-- Scott Nesbit and Ed Ayers, Visualizing Emancipation (interactive visualization)
+- Scott Nesbit and Ed Ayers, [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (interactive visualization)
 - Greg Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety of the visual narrative)
 
 *Review Paper Due 3/11 by 4pm*
