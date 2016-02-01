@@ -23,7 +23,13 @@ We will be learning the three major stages of digital spatial history over the c
 
 **Map Analysis (15%)**
 
-A five-page analysis of 1-2 historical maps or similar primary source related to the spatial history of the United States. The paper will conduct a close reading of the source as a historical document, analyzing its message and design while contextualizing its significance in the era in which it was made. *Due Wednesday, February 17th.*
+A five-page analysis (~1250 words) of one historical map related to the history of the United States. The paper will conduct a close reading of the map as a primary document. It will provide an overview of the source, the historical context of its production, and an overriding argument about the map and its historical significance. Below are some questions that you might want to consider - be strategic about how much information and context you need to support your argument.
+
+- Basic information: Who made it and when did they make it? What does it show? What kind of features does it include? What is its visual design and layout?
+- Context: What was the historical context in which this map was made - ex. exploration, urban planning, a political election?  
+- Argument: Does your map have a hidden message or intentionally leave out certain features? Does it advance a certain agenda? What evidence supports your claim? Why does this claim matter?
+
+*Due Wednesday, February 17th.*
 
 **Review Paper (15%)** 
 
