@@ -16,6 +16,7 @@ order: 2
 - Herman Moll, ["Map of North America According to the Newest and Most Exact Observations"](https://www.loc.gov/resource/g3300.ct003985/) (1715)
 
 **Week 3: Lab #1 - Designing Maps (2/3)**
+
 - [Sign up](https://cartodb.com/signup) for a free account with CartoDB.
 - Edward Tufte, *The Visual Display of Quantitative Information*:
 	* [Chapter 1: Graphical Excellence (pp. 13-27)](https://sakai.rutgers.edu/x/HYx2xw)
@@ -24,6 +25,7 @@ order: 2
 
 **Week 4: Spatial Connections (2/10)**
 
+- Come to class with the map you have selected for your first paper
 - Elizabeth Fenn, *Pox Americana: The Great Smallpox Epidemic of 1775-82*: 
 	* [Introduction (pp. 3-11)](https://sakai.rutgers.edu/x/s6Kk23)
 	* [Chapter 5: Entierros (pp. 133-166)](https://sakai.rutgers.edu/x/IYNhZ6)
