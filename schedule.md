@@ -16,7 +16,7 @@ order: 2
 - Herman Moll, ["Map of North America According to the Newest and Most Exact Observations"](https://www.loc.gov/resource/g3300.ct003985/) (1715)
 
 **Week 3: Lab #1 - Designing Maps (2/3)**
-
+- [Sign up](https://cartodb.com/signup) for a free account with CartoDB.
 - Edward Tufte, *The Visual Display of Quantitative Information*:
 	* [Chapter 1: Graphical Excellence (pp. 13-27)](https://sakai.rutgers.edu/x/HYx2xw)
 	* [Chapter 4: Data-Ink and Graphical Redesign (pp. 91-105)](https://sakai.rutgers.edu/x/mvkhuk)
