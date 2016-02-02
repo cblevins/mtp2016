@@ -1,0 +1,91 @@
+File: 
+lewis-clark-sites.csv
+
+Title: 
+Lewis & Clark Expedition: Key Westbound & Eastbound Sites, 1804-1806
+
+Creator: 
+ESRI Schools and Libraries Program (modified by Cameron Blevins)
+
+Date: 
+1998 (modified 2016)
+
+Overview:
+This tabular data file presents point data for key sites along Lewis & Clark's expedition route. These reflect important starting and stopping locations as well as sites where key expedition events occurred. The data is taken from a file created by ESRI Schools and Libraries Program and has been modified by Cameron Blevins for educational purposes. The metadata for the original file appears below. 
+
+Fields Names:
+Location	Describes basic name of location.
+State		Name of present-day state in which point is located.
+Details		Descriptive information associated with each site
+Latitude		Latitude in decimal degrees.
+Longitude		Longitude in decimal degrees.
+Arrive	Date or approximate date on which the Corps of Discovery arrived at this site 
+Depart	Date or approximate date on which the Corps of Discovery departed from this site
+Direction	The direction of travel when the Corps of Discovery stopped at this site
+
+########### Original File Metadata ###########
+
+LCSITES.SHP
+Lewis & Clark Expedition:
+Key Westbound & Eastbound Sites, 1804-1806
+
+ESRI Schools and Libraries Program
+Redlands, CA 
+(c) 1998
+------------------------------------
+
+Overview: 
+This geographic data file presents point data for 35 key sites along Lewis & Clark's 
+expedition route. These reflect important starting and stopping locations as well as 
+sites where key expedition events occurred.
+
+Projection:
+Decimal degree.
+
+Scale:
+It is recommended that this data file be used at scale no lower than 1:2,000,000.
+
+Source: 
+ESRI staff researched the locational information for this shape file using a number of 
+books, maps, and related documents. Principal among these were: Undaunted Courage, 
+Stephen Ambrose; Lewis & Clark: The Journey of the Corps of Discovery, Dayton Duncan 
+and Ken Burns; Atlas of Westward Expansion, Alan Wexler and Molly Braun; and The Shaping 
+of America-Continental America 1800-1867, D.W. Meinig.
+
+With these as sources and other vector layers (principally river and stream data from the 
+EPA's BASINS program) as indicators and guides, ESRI staff used ArcView's theme creation 
+and editing tools to fashion this historical shape file.
+
+To map this data item with ArcView: 
+
+1.	At the PROJECT window, open a NEW VIEW or use an existing VIEW in your project.
+2.	In the VIEW, click the ADD THEME button.
+3.	In the subsequent window, navigate to where the LCSITES.SHP file is located; 
+	click OK.
+4.	Click the checkbox next to the theme name LCSITES.SHP in your view.        
+5.	If you began with a NEW VIEW, add other themes to provide a North American context 
+	to your display. For instance, using the ArcVoyager data, click the ADD THEME 
+	button, navigate to VOYAGER\DATA\GEO\NAMERICA directory, and select Canadian 
+	Provinces (CANADA.SHP) and Mexican states (MEXICO.SHP) and from VOYAGER\DATA\GEO\US 
+	select U.S. states (US_STATE.SHP). Add other layers to build on the story such as 
+	rivers, lakes, cities, and other supportive layers.
+6.  	Use the LEGEND EDITOR to reclassify the data.	
+
+Fields Names:
+
+SHAPE		Describes vector shape as point, line, or polygon. 
+AREANAME	Describes basic name of location.
+STATE		Name of present-day state in which point is located.
+SITE_NUM	Sequential number for each unique site.
+ARCLINK		Descriptive name associated with each site for possible use with hot linked 
+		image and text files.
+LAT		Latitude in decimal degrees.
+LONG		Longitude in decimal degrees.
+WEST_ARR	Date or approximate date on which the Corps of Discovery arrived at this 
+		site in its westbound expedition.
+WEST_DEP	Date or approximate date on which the Corps of Discovery departed from this 
+		site in its westbound expedition.
+EAST_ARR	Date or approximate date on which the Corps of Discovery arrived at this 
+		site in its eastbound expedition.
+EAST_DEP	Date or approximate date on which the Corps of Discovery departed from this 
+		site in its eastbound expedition.

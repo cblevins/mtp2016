@@ -1,0 +1,50 @@
+LA_PUR1.SHP
+Lewis & Clark Expedition:
+Boundaries of the Louisiana Purchase, 1803
+
+ESRI Schools and Libraries Program
+Redlands, CA 
+(c) 1998
+------------------------------------
+
+Overview: 
+This geographic data file presents polygon data for the boundaries of the Louisiana 
+Purchase of 1803. Its purchase became the final catalyst in launching Thomas Jefferson's 
+long-held dream of a major expedition of the American west.
+
+Projection:
+Decimal degree.
+
+Scale:
+It is recommended that this data file be used at scale no lower than 1:2,000,000.
+
+Source: 
+ESRI staff researched the locational information for this shape file using a number of 
+books, maps, and related documents. Principal among these were: Undaunted Courage, 
+Stephen Ambrose; Lewis & Clark: The Journey of the Corps of Discovery, Dayton Duncan 
+and Ken Burns; Atlas of Westward Expansion, Alan Wexler and Molly Braun; and The Shaping 
+of America-Continental America 1800-1867, D.W. Meinig.
+
+With these as sources and other vector layers (principally river/stream and watershed data 
+from the EPA's BASINS program) as indicators and guides, ESRI staff used ArcView's theme 
+creation and editing tools to fashion this historical shape file.
+
+To map this data item with ArcView: 
+
+1.	At the PROJECT window, open a NEW VIEW or use an existing VIEW in your project.
+2.	In the VIEW, click the ADD THEME button.
+3.	In the subsequent window, navigate to where the LA_PUR1.SHP file is located; 
+	click OK.
+4.	Click the checkbox next to the theme name LA_PUR1.SHP in your view.        
+5.	If you began with a NEW VIEW, add other themes to provide a North American context 
+	to our display. For instance, using the ArcVoyager data, click the ADD THEME button,
+	navigate to VOYAGER\DATA\GEO\NAMERICA directory, and select Canadian Provinces 
+	(CANADA.SHP) and Mexican states (MEXICO.SHP) and from VOYAGER\DATA\ GEO\US select 
+	U.S. states (US_STATE.SHP). Add other layers to build on the story such as rivers, 
+	lakes, cities, and other supportive layers.
+6.  	Use the LEGEND EDITOR to reclassify the data.
+
+Fields Names:
+
+SHAPE	Describes vector shape as point, line, or polygon. 
+NAME	Name of the region.

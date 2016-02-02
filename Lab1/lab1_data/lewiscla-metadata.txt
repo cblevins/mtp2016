@@ -1,0 +1,69 @@
+LEWISCLA.SHP
+Lewis & Clark Expedition:
+Route of the Corps of Discovery, 1804-1806
+
+ESRI Schools and Libraries Program
+Redlands, CA 
+(c) 1998
+------------------------------------
+
+Overview: 
+This geographic data file presents line data for 31 segments of the Lewis & Clark's 
+expedition route. These reflect important starting and stopping locations as well as 
+sites where key expedition events occurred.
+
+Projection:
+Decimal degree.
+
+Scale:
+It is recommended that this data file be used at scale no lower than 1:2,000,000.
+
+Source: 
+ESRI staff researched the locational information for this shape file using a number of 
+books, maps, and related documents. Principal among these were: Undaunted Courage, 
+Stephen Ambrose; Lewis & Clark: The Journey of the Corps of Discovery, Dayton Duncan 
+and Ken Burns; Atlas of Westward Expansion, Alan Wexler and Molly Braun; and The Shaping 
+of America-Continental America 1800-1867, D.W. Meinig.
+
+With these as sources and other vector layers (principally river and stream data from the 
+EPA's BASINS program) as indicators and guides, ESRI staff used ArcView's theme creation 
+and editing tools to fashion this historical shape file.
+
+To map this data item with ArcView: 
+
+1.	At the PROJECT window, open a NEW VIEW or use an existing VIEW in your project.
+2.	In the VIEW, click the ADD THEME button.
+3.	In the subsequent window, navigate to where the LEWISCLA.SHP file is located; 
+	click OK.
+4.	Click the checkbox next to the theme name LEWISCLA.SHP in your view.        
+5.	If you began with a NEW VIEW, add other themes to provide a North American context 
+	to our display. For instance, using the ArcVoyager data, click the ADD THEME button,
+	navigate to VOYAGER\DATA\GEO\NAMERICA directory, and select Canadian Provinces 
+	(CANADA.SHP) and Mexican states (MEXICO.SHP) and from VOYAGER\DATA\GEO\US select 
+	U.S. states (US_STATE.SHP). Add other layers to build on the story such as rivers, 
+	lakes, cities, and other supportive layers.
+6.  	Use the LEGEND EDITOR to reclassify the data.
+
+Fields Names:
+
+SHAPE		Describes vector shape as point, line, or polygon. 
+EXPED_NUM	Identifies the expedition segment number, which runs in sequential order to 
+		the west coast. The return route splinters as Lewis and Clark decide to 
+		explore new lands. Also, the Corps retraces its steps along major segments 
+		of the route. For these reasons, the expedition segment numbers can not 
+		provide a sequential west to east flow.
+EXPED_SEG	Names the expedition segment, generally with a starting and ending point 
+		reading from east to west. Since a good number of segments are both 
+		westbound and eastbound, in eastbound situations the expedition segment 
+		names should be read from right to left.
+WESTBOUND	Identifies this segment as a westbound segment YES or NO.
+WEST_DA		Dates or approximate dates on which the Corps of Discovery explored this 
+		area in its westbound expedition.
+WEST_XPL	Identifies commanding members of the Corps of Discovery associated with 
+		this westbound expedition segment.
+EASTBOUND	Identifies this segment as an eastbound segment YES or NO.
+EAST_DATE	Dates or approximate dates on which the Corps of Discovery explored this 
+		area in its eastbound expedition.
+EAST_XPLOR	Identifies commanding members of the Corps of Discovery associated with 
+		this eastbound expedition segment.
+
