@@ -12,6 +12,7 @@ In a world increasingly rife with maps, visualizations, and geographic informati
 literacy into practice by creating their own work of spatial history.
 
 ##Learning Goals
+
 1. Understand how issues of space and geography have shaped key topics in American history 
 2. Develop visual literacy, or the ability to read, interpret, and critique visual sources 
 3. Learn qualitative and quantitative skills for spatial and historical analysis 
