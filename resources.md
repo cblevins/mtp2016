@@ -5,7 +5,7 @@ permalink: /resources/
 order: 5
 ---
 
-### In the classroom
+<h3>In the classroom</h3>
 
 - [Rubric for Presentations]({{site.baseurl}}/presentation-rubric.pdf) (what I will use to evaluate student presentations)
 - Heather Cox Richardson, ["How to Read for a College History Course"](http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html) and ["Tips for Discussion Sections"](http://histsociety.blogspot.com/2009/06/richardsons-rules-of-order-part-v-tips.html)
