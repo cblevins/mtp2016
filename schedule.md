@@ -45,7 +45,7 @@ order: 2
 
 **Week 6: Lab #2 - GIS and Spatial Analysis (2/24)**
 
-- Complete the tutorial: Jim Clifford, Josh MacFadyen and Daniel Macfarlane, ["Installing QGIS 2.0 and Adding Layers"](http://programminghistorian.org/lessons/qgis-layers) *The Programming Historian*
+- Complete the tutorial: Fred Gibbs, ["Making a Map with QGIS"](http://fredgibbs.net/tutorials/qgis/making-a-map-with-qgis.html), 26 October 2015.
 
 **Week 7: Battlefields and the Civil War (3/2)**<br>
 
