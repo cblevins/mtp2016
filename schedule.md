@@ -59,7 +59,7 @@ order: 2
 - Scott Nesbit and Ed Ayers, [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (interactive visualization)
 - Greg Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety of the visual narrative)
 
-*Review Paper Due 3/11 by 4pm*
+*Review Paper Due 3/14 by 4pm*
 
 <p align="center">Spring Break (3/12-3/20)</p>
 

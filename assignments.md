@@ -33,7 +33,14 @@ A five-page analysis (~1250 words) of one historical map related to the history 
 
 **Review Paper (15%)** 
 
-A five- to six-page review essay of a work of spatial history (either a digital project/visualization or a written text). Students will describe the author’s interpretation and evidence, evaluate their effectiveness, and explain the project's broader significance. *Due Friday, March 11th.*
+A five- to seven-page review essay (~1400-2000 words) of a work of spatial history selected from the list of projects below. Students will both *familiarize* the reader with the project and *evaluate* the project and its contributions. If you would like to write about another project, please send an email describing the project by **Sunday, March 6th** to get approval. *Due Monday, March 14th at 8PM.*
+
+- Invasion of America - [http://invasionofamerica.ehistory.org/](http://invasionofamerica.ehistory.org/)
+- American Panorama: The Overland Trails - [http://dsl.richmond.edu/panorama/overlandtrails](http://dsl.richmond.edu/panorama/overlandtrails)
+- American Panorama: Foreign-Born Population - [http://dsl.richmond.edu/panorama/foreignborn/](http://dsl.richmond.edu/panorama/foreignborn/)
+- American Panorama: Canals - [http://dsl.richmond.edu/panorama/canals](http://dsl.richmond.edu/panorama/canals)
+- Going to the Show: Mapping Moviegoing in North Carolina - [http://docsouth.unc.edu/gtts/](http://docsouth.unc.edu/gtts/)
+- Histories of the National Mall - [http://mallhistory.org/](http://mallhistory.org/)
 
 **Final Project (25%)**
 
