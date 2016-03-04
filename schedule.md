@@ -55,9 +55,9 @@ order: 2
 - *Lab #2 Due by 4pm*
 
 **Week 8: Emancipation and Reconstruction (3/9)**
-
-- Scott Nesbit and Ed Ayers, [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (interactive visualization)
-- Greg Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety of the visual narrative)
+- Gregory Downs and Kate Masur, ["There's No National Site Devoted to Reconstruction—Yet"](http://www.theatlantic.com/politics/archive/2015/04/theres-no-national-site-devoted-to-reconstructionyet/389138/)
+- Gregory Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety of the visual narrative)
+- In-class: Scott Nesbit and Ed Ayers, [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (interactive visualization)
 
 *Review Paper Due 3/14 by 8pm*
 
