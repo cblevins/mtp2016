@@ -71,20 +71,19 @@ order: 2
 
 **Week 10: Lab #3 - Gathering Spatial Data (3/30)**
 
-- Seth Long, ["Digital Maps and Social Data"](https://technaverbascripta.wordpress.com/2013/03/11/digital-maps-and-social-data/)
+- Alvaro M. Bedoya, ["Big Data and the Underground Railroad"](http://www.slate.com/articles/technology/future_tense/2014/11/big_data_underground_railroad_history_says_unfettered_collection_of_data.html)
 - Nathan Yau, ["Explorations of People Movements"](http://flowingdata.com/2014/07/30/explorations-of-people-movements-from-groups-to-the-individual/)
 
 **Week 11: Jim Crow Now (4/6)**
 
 - Nikole Hannah-Jones, ["Segregation Now: The Resegregation of American Schools"](https://www.propublica.org/article/segregation-now-the-resegregation-of-americas-schools)
-- [The Sentencing Project Interactive Map](http://www.sentencingproject.org/map/map.cfm)
+- Theodore R. Johnson, ["What If Black America were a Country?"]("http://www.theatlantic.com/international/archive/2014/10/what-if-black-america-were-a-country/380953/")
 - *Lab #3 Due by 4pm*
 
 **Week 12: #BlackLivesMatter (4/13)**
 
 - [Interview with Alicia Garza, co-founder of #BlackLivesMatter](https://www.youtube.com/watch?v=Y5WeJaNtMQs) [YouTube]
-- Theodore R. Johnson, ["What If Black America were a Country?"]("http://www.theatlantic.com/international/archive/2014/10/what-if-black-america-were-a-country/380953/")
-- Jeremy Ashkenas and Haeyoun Park, ["The Race Gap in America’s Police Departments"](http://www.nytimes.com/interactive/2014/09/03/us/the-race-gap-in-americas-police-departments.html) 
+- Deen Freelon, Charlton D. McIlwain, Meredith D. Clark, *[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice](http://www.cmsimpact.org/sites/default/files/beyond_the_hashtags_2016.pdf)*, pages 5-12.
 - Alia Wong and Adrienne Green, ["Campus Protest Roundup"](http://www.theatlantic.com/education/archive/2016/01/campus-protest-roundup/417570/)
 
 
