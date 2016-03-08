@@ -63,22 +63,22 @@ order: 2
 
 <p align="center">Spring Break (3/12-3/20)</p>
 
-**Week 9: Lab #3 - Gathering Spatial Data (3/23)**
+<h4><p align ="center">Part III: Race, Space and Modern America</p></h4>
+
+**Week 9: Jim Crow Then (3/23)**
+
+- Ta-Nehisi Coates, ["The Case for Reparations"](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
+
+**Week 10: Lab #3 - Gathering Spatial Data (3/30)**
 
 - Seth Long, ["Digital Maps and Social Data"](https://technaverbascripta.wordpress.com/2013/03/11/digital-maps-and-social-data/)
 - Nathan Yau, ["Explorations of People Movements"](http://flowingdata.com/2014/07/30/explorations-of-people-movements-from-groups-to-the-individual/)
-
-<h4><p align ="center">Part III: Race, Space and Modern America</p></h4>
-
-**Week 10: Jim Crow Then (3/30)**
-
-- Ta-Nehisi Coates, ["The Case for Reparations"](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
-- *Lab #3 Due by 4pm*
 
 **Week 11: Jim Crow Now (4/6)**
 
 - Nikole Hannah-Jones, ["Segregation Now: The Resegregation of American Schools"](https://www.propublica.org/article/segregation-now-the-resegregation-of-americas-schools)
 - [The Sentencing Project Interactive Map](http://www.sentencingproject.org/map/map.cfm)
+- *Lab #3 Due by 4pm*
 
 **Week 12: #BlackLivesMatter (4/13)**
 
