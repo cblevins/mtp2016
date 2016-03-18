@@ -77,7 +77,7 @@ order: 2
 **Week 11: Jim Crow Now (4/6)**
 
 - Nikole Hannah-Jones, ["Segregation Now: The Resegregation of American Schools"](https://www.propublica.org/article/segregation-now-the-resegregation-of-americas-schools)
-- Theodore R. Johnson, ["What If Black America were a Country?"]("http://www.theatlantic.com/international/archive/2014/10/what-if-black-america-were-a-country/380953/")
+- Theodore R. Johnson, ["What If Black America were a Country?"](http://www.theatlantic.com/international/archive/2014/10/what-if-black-america-were-a-country/380953/)
 - *Lab #3 Due by 4pm*
 
 **Week 12: #BlackLivesMatter (4/13)**
