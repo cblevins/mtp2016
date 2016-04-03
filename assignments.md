@@ -44,5 +44,5 @@ A five- to seven-page review essay (~1400-2000 words) of a work of spatial histo
 
 **Final Project (25%)**
 
-In small groups of three to four, students will design their own spatial history projects related to the history of Rutgers University. Students will identify a research question to ask about some spatial dimension of the university’s past, gather and analyze evidence to answer that question, and present their findings in an online exhibit. *Due by the beginning of class on Wednesday, April 27th.*
+In small groups of three to four, students will design their own spatial history projects related to the history of Rutgers University. Students will identify a research question to ask about some spatial dimension of the university’s past, gather and analyze evidence to answer that question, and present their findings in an online exhibit. *Final Project and group evaluations due by Tuesday, May 3rd, 11:59PM*
 

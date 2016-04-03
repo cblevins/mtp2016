@@ -98,4 +98,6 @@ Complete the following tutorials:
 
 **Week 14: Final Project Presentations (4/27)**
 
-- *Final Projects Due at the Beginning of Class*
+- Email a link to your website by the beginning of class
+
+**Final Project and group evaluations due by Tuesday, May 3rd, 11:59PM**
